@@ -1,12 +1,15 @@
 Whether App
 
+
 Introduction:
 
 The Weather App is a web application built using React and Zustand, designed to provide weather updates with customizable settings.
 
+
 Installation:
 
 Prerequisites:
+
 Ensure you have the following installed:
 Node.js v22.16.0 or later
 npm
