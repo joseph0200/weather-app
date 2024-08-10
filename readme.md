@@ -15,7 +15,7 @@ React JS
 Set up Steps
 
 1. Clone the repository:
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/joseph0200/weather-app.git
    cd weather-app
 
 3. Install dependencies:
@@ -51,7 +51,7 @@ npm run build
 
 Contributing
 1. Clone the repository:
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/joseph0200/weather-app.git
 cd weather-app
 
 2.Install the necessary modules:
