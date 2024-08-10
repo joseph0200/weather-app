@@ -56,11 +56,11 @@ Contributing:
    git clone https://github.com/joseph0200/weather-app.git
    cd weather-app
 
-2.Install the necessary modules:
-  npm install
+2. Install the necessary modules:
+   npm install
 
-3.Run the app:
-  npm start
+3. Run the app:
+   npm start
 
 Custom NPM modules used :
 - Heroicons
