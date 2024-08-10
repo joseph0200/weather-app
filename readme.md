@@ -49,7 +49,7 @@ While specific commands are detailed in the package.json file, here are a few us
 - build: Builds the app for production.
   npm run build
 
-Contributing
+Contributing:
 1. Clone the repository:
    git clone https://github.com/joseph0200/weather-app.git
    cd weather-app
@@ -61,8 +61,8 @@ Contributing
   npm start
 
 Custom NPM modules used :
-Heroicons
-React Query
-Axios
+- Heroicons
+- React Query
+- Axios
 ![image](https://github.com/user-attachments/assets/d6b4b4dd-ce3d-4573-abf3-9a7c007721ef)
 
