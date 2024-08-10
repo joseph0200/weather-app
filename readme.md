@@ -37,7 +37,8 @@ This template follows a very simple project structure:
 - index.css: Contains global styles.
 - index.js: Entry point of your application as per React standards.
 
-*Scripts:*
+Scripts:
+
 While specific commands are detailed in the package.json file, here are a few useful scripts and their purposes:
 
 - start: Starts the development server.
@@ -50,6 +51,7 @@ While specific commands are detailed in the package.json file, here are a few us
   npm run build
 
 Contributing:
+
 1. Clone the repository:
    git clone https://github.com/joseph0200/weather-app.git
    cd weather-app
