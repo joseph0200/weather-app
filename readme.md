@@ -28,14 +28,14 @@ Folder Structure
 
 This template follows a very simple project structure:
 
--src: This folder is the main container of all the code inside your application.
--components: Contains all reusable components used throughout the application.
--Section.js: Main component to display the weather information.
--Section.css: Styles for the Section component.
--App.css: Contains styles for the application.
--App.js: Main component that starts your whole app.
--index.css: Contains global styles.
--index.js: Entry point of your application as per React standards.
+- src: This folder is the main container of all the code inside your application.
+- components: Contains all reusable components used throughout the application.
+- Section.js: Main component to display the weather information.
+- Section.css: Styles for the Section component.
+- App.css: Contains styles for the application.
+- App.js: Main component that starts your whole app.
+- index.css: Contains global styles.
+- index.js: Entry point of your application as per React standards.
 
 Scripts:
 While specific commands are detailed in the package.json file, here are a few useful scripts and their purposes:
